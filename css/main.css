@@ -469,7 +469,7 @@ body {
 }
 
 .skills-section h2 {
-    color: var(--highlight);
+    color: var(--text-secondary);
     margin-bottom: 25px;
     font-weight: 700;
     position: relative;
@@ -484,7 +484,7 @@ body {
     left: 0;
     width: 60%;
     height: 3px;
-    background: linear-gradient(90deg, var(--highlight), transparent);
+    background: linear-gradient(90deg, var(--text-secondary), transparent);
     border-radius: 3px;
 }
 
@@ -496,7 +496,7 @@ body {
     padding: 25px;
     margin-bottom: 25px;
     transition: all 0.4s ease;
-    border-left: 4px solid var(--highlight);
+    border-left: 4px solid #b8b8b892;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
     position: relative;
     overflow: hidden;
